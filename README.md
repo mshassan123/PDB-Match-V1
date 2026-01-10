@@ -1,7 +1,7 @@
 
-# PDB Batch v1
+# Protomeus
 
-**PDB Batch v1** is an interactive, notebook-based bioinformatics pipeline for
+**Protomeus** is an interactive, notebook-based bioinformatics pipeline for
 deep structural and mutational comparison of wild-type and mutant protein
 structures using PDB files.
 
